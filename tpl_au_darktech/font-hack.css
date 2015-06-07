@@ -1,0 +1,10 @@
+@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:local('Open Sans'),url(../fonts/open-sans.ttf) format('truetype');}
+@font-face {font-family:'Open Sans';font-style:italic;font-weight:400;src:local('Open Sans Italic'),url(../fonts/open-sans-italic.ttf) format('truetype');}
+@font-face {font-family:'Open Sans';font-style:normal;font-weight:300;src:local('Open Sans Light'),url(../fonts/open-sans-light.ttf) format('truetype');}
+@font-face {font-family:'Open Sans';font-style:italic;font-weight:300;src:local('Open Sans Light Italic'),url(../fonts/open-sans-light-italic.ttf) format('truetype');}
+@font-face {font-family:'Open Sans';font-style:normal;font-weight:600;src:local('Open Sans Semibold'),url(../fonts/open-sans-semibold.ttf) format('truetype');}
+@font-face {font-family:'Open Sans';font-style:italic;font-weight:600;src:local('Open Sans Semibold Italic'),url(../fonts/open-sans-semibold-italic.ttf) format('truetype');}
+@font-face {font-family:'Open Sans';font-style:normal;font-weight:700;src:local('Open Sans Bold'),url(../fonts/open-sans-bold.ttf) format('truetype');}
+@font-face {font-family:'Open Sans';font-style:italic;font-weight:700;src:local('Open Sans Bold Italic'),url(../fonts/open-sans-bold-italic.ttf) format('truetype');}
+@font-face {font-family:'Open Sans';font-style:normal;font-weight:800;src:local('Open Sans Extrabold'),url(../fonts/open-sans-extrabold.ttf) format('truetype');}
+@font-face {font-family:'Open Sans';font-style:italic;font-weight:800;src:local('Open Sans Extrabold Italic'),url(../fonts/open-sans-extrabold-italic.ttf) format('truetype');}
